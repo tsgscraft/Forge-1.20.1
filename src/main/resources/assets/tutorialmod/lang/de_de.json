@@ -1,0 +1,9 @@
+{
+  "item.tutorialmod.ruby": "Rubin",
+  "item.tutorialmod.raw_ruby": "Rohrubin",
+
+  "block.tutorialmod.ruby_block": "Rubinblock",
+  "block.tutorialmod.raw_ruby_block": "RohRubinblock",
+
+  "creativetab.tutorial_tab": "Rubin Tutorial Tab"
+}
